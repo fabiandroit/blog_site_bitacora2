@@ -6,19 +6,27 @@ body{
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: rgb(235, 184, 165);
+    background-color: deeppink;
 }
 h2{
     margin-top: 0px;
+<<<<<<< HEAD
     color: darkmagenta;
 }
 .encabezado{
     background-color: darkred;
     color: burlywood;
+=======
+    color: chocolate;
+}
+.encabezado{
+    background-color: blueviolet;
+>>>>>>> header
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 5px 10px #000000;
+    color: white;
 }
 h3{
     color: crimson;
