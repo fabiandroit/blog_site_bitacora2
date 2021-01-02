@@ -10,18 +10,10 @@ body{
 }
 h2{
     margin-top: 0px;
-<<<<<<< HEAD
-    color: darkmagenta;
-}
-.encabezado{
-    background-color: darkred;
-    color: burlywood;
-=======
     color: chocolate;
 }
 .encabezado{
     background-color: blueviolet;
->>>>>>> header
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
