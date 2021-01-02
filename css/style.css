@@ -6,15 +6,17 @@ body{
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: rgb(235, 184, 165);
+    background-color: deeppink;
 }
 h2{
     margin-top: 0px;
+    color: chocolate;
 }
 .encabezado{
-    background-color: darkcyan;
+    background-color: blueviolet;
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 5px 10px #000000;
+    color: white;
 }
